@@ -39,5 +39,5 @@ kb -- fb vb sb fb ab kb<br />
 
 ## Örnek output.txt
 
-Siyah : 137.5
+Siyah : 137.5<br />
 Beyaz : 138.5
