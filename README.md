@@ -5,9 +5,9 @@ Visual studio çözümü SatrancAnaliz.sln
 
 Header ve Cpp dosyaları SatrancAnaliz dosyasının altında.
 
-# Projede sadece vezir, at ve piyonun tehditleri hesaba katılmıştır.
+###### Projede sadece vezir, at ve piyonun tehditleri hesaba katılmıştır.
 
-# Kullanım Şekli : 
+## Kullanım Şekli : 
 
 - Repository indir
 
