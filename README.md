@@ -24,3 +24,20 @@ Header ve Cpp dosyaları SatrancAnaliz dosyasının altında.
 (output.txt dosyası silinirse program yenisini olusturur.)
 
 (önceden output.txt dosyası varsa program dosyanın içeriğini silip yeni içeriği yazar.)
+
+
+## Örnek input.txt
+
+ks as fs vs ss fs -- ks
+ps ps ps ps -- ps ps ps
+-- -- -- -- -- as -- --
+-- ab -- -- ps -- -- --
+-- -- -- pb -- -- -- --
+-- -- -- -- -- -- -- --
+pb pb pb -- pb pb pb pb
+kb -- fb vb sb fb ab kb
+
+## Örnek output.txt
+
+Siyah : 137.5
+Beyaz : 138.5
