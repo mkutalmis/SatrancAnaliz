@@ -28,21 +28,14 @@ Header ve Cpp dosyaları SatrancAnaliz dosyasının altında.
 
 ## Örnek input.txt
 
-ks as fs vs ss fs -- ks
-
-ps ps ps ps -- ps ps ps
-
--- -- -- -- -- as -- --
-
--- ab -- -- ps -- -- --
-
--- -- -- pb -- -- -- --
-
--- -- -- -- -- -- -- --
-
-pb pb pb -- pb pb pb pb
-
-kb -- fb vb sb fb ab kb
+ks as fs vs ss fs -- ks<br />
+ps ps ps ps -- ps ps ps<br />
+-- -- -- -- -- as -- --<br />
+-- ab -- -- ps -- -- --<br />
+-- -- -- pb -- -- -- --<br />
+-- -- -- -- -- -- -- --<br />
+pb pb pb -- pb pb pb pb<br />
+kb -- fb vb sb fb ab kb<br />
 
 ## Örnek output.txt
 
